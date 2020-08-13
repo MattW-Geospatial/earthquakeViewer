@@ -2,3 +2,11 @@
 .Rhistory
 .RData
 .Ruserdata
+*.cpg
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.shp
+*.shp.xml
+*.shx
