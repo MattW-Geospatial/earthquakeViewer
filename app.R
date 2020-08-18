@@ -345,7 +345,7 @@ server <- function(input, output, session) {
                 earthquakeLayer(Earthquakes,var = var, palette = palette, breaks = breaks, title.col = title.col) # add the new layer
             
         })
-    })
+    }, ignoreInit = TRUE)
     
     
     
